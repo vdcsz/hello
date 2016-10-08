@@ -1,3 +1,3 @@
-FROM index.alauda.cn/repos/waxiangzi/alpine-puma
+FROM index.alauda.cn/waxiangzi/alpine-puma
 
 ADD . /opt
